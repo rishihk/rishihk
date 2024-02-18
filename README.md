@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Rishi
+- 👋 Hi, I’m Rishi. I am a Junior at Iowa State University pursuing Computer Science.
 - 👀 I’m interested in Full Stack App Development.
 - 🌱 I’m currently learning Cloud Computing, Operating Systems and Artificial Intelligence.
 - 💞️ I’m looking to collaborate on Software Applications.
