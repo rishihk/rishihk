@@ -6,18 +6,11 @@
 
 </div>
 
----
-
 - 🧑‍🎓 I am a Senior majoring in Computer Science at Iowa state University.
 - 🤔 I am interested in Cloud Computing, Software Infrastructure, Devops, AI/ML and Fullstack development.
 - 📚 Currently working on advancing my Cloud and Devops skills and learning GoLang fundementals.
 - 🔍 I am persistently curious about software development and proactively seek new learning opportunities to expand my knowledge.
-- 🤝 If you have any exciting project ideas and looking to collaborate, you can reach out to me on [LinkedIn](https://www.linkedin.com/in/hrishikesha-hk-1510ab21a/) or email [hk.hrishi30@gmail.com](mailto:hk.hrishi30@gmail.com)
---- 
-<div align="center">
-  Thank you for visiting my profile. Feel free to reach out!
-</div>
-
+- 🤝 If you have any exciting project ideas and looking to collaborate, you can reach out to me on [LinkedIn](https://www.linkedin.com/in/hrishikesha-hk-1510ab21a/) or mail [hk.hrishi30@gmail.com](mailto:hk.hrishi30@gmail.com)
 
 <!---
 rishihk/rishihk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
