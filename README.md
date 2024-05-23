@@ -1,8 +1,6 @@
 <h1 align="center">👋 Hi, I'm Rishi</h1>
 
-  
 &nbsp; [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+Github+Profile;)](https://git.io/typing-svg)
-
 
 - 🧑‍🎓 I am a Senior majoring in Computer Science at Iowa state University.
 - 🤔 I am interested in Cloud Computing, Software Infrastructure, Devops, AI/ML and Fullstack development.
