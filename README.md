@@ -5,7 +5,7 @@
 - 🧑‍🎓 I am a Senior majoring in Computer Science at Iowa state University.
 - 🤔 I am interested in Cloud Computing, Software Infrastructure, Devops, AI/ML and Fullstack development.
 - 📚 Currently working on advancing my Cloud and Devops skills and learning GoLang fundementals.
-- 🔍 I am persistently curious about software development practices and proactively seek new learning opportunities to expand my knowledge.
+- 🌱 I proactively seek new learning opportunities to expand my knowledge on software technologies.
 - 🤝 If you have any new project ideas and looking to collaborate, you can reach out on [LinkedIn](https://www.linkedin.com/in/hrishikesha-hk-1510ab21a/) or mail [hk.hrishi30@gmail.com](mailto:hk.hrishi30@gmail.com)
 
 <!---
