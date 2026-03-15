@@ -6,7 +6,6 @@
 
 </div>
 
-
 ## 🧑‍💻 About Me
 
 I work on Kubernetes, distributed systems, cloud infrastructure, and data pipelines. My experience includes building K8s-based services, large-scale data workflows, and backend systems.
