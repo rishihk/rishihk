@@ -2,8 +2,6 @@
 
 <h1>Hi, I'm Rishi 👋</h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+GitHub+Profile!&center=true)](https://git.io/typing-svg)
-
 </div>
 
 ## 🧑‍💻 About Me
